@@ -39,3 +39,5 @@ Le fotografie sono state scaricate in agosto 2026 da Wikimedia Commons per esser
 - `gennadi.jpg` — [Gennadi beach](https://commons.wikimedia.org/wiki/File:%CE%A0%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B1_%CE%93%CE%B5%CE%BD%CE%BD%CE%B1%CE%B4%CE%AF%CE%BF%CF%85.jpg), Wikimedia Commons.
 - `symi-porto.jpg` — [Fishing boats in Ano Symi harbour](https://commons.wikimedia.org/wiki/File:Fishing_boats._Ano_Symi_harbor,_Greece.jpg), CC BY-SA 3.0.
 - `via-socrate.jpg` — [Socrates Street, Rhodes](https://commons.wikimedia.org/wiki/File:Socrates_Street_(Rhodes)_(9671427330).jpg), CC BY 2.0.
+- `butterflies-panorama-2.jpg` — [The Valley of the Butterflies, Rhodes](https://commons.wikimedia.org/wiki/File:The_Valley_of_the_Butterflies_Rhodes_Greece_-_panoramio.jpg), CC BY-SA 3.0.
+- `filerimos-panorama-2.jpg` — [Filerimos Cross](https://commons.wikimedia.org/wiki/File:Filerimos_Cross_18_m_high_on_Filerimos_Hill_267_m_high_Kremasti_Rhodes_7_September_2017.jpg), CC BY-SA 4.0.
