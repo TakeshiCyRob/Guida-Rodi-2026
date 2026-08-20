@@ -23,3 +23,19 @@ Le fotografie sono state scaricate in agosto 2026 da Wikimedia Commons per esser
 - `asklipio.jpg` — [Asklipio Church, Rhodes](https://commons.wikimedia.org/wiki/File:Rhodos_Asklipio_Church_R01.jpg), Wikimedia Commons.
 - `moni-thari.jpg` — [Moni Thari](https://commons.wikimedia.org/wiki/File:Moni_thani05.JPG), Wikimedia Commons.
 - `rodini.jpg` — [Rodini Park, Rhodes](https://commons.wikimedia.org/wiki/File:Rodini_Park,_Rhodes_(5684496231).jpg), Wikimedia Commons.
+- `porta-marina.jpg` — [Marine Gate, Rhodes](https://commons.wikimedia.org/wiki/File:Marine_Gate_Akti_Sachtouri_Rhodes_1_September_2019.jpg), CC BY-SA 4.0.
+- `piazza-ippocrate.jpg` — [Hippocrates Square, Rhodes](https://commons.wikimedia.org/wiki/File:Hippocrates_Square_in_Rhodes_Old_Town,_Greece_(51698851258).jpg), CC BY 2.0.
+- `piazza-martiri-ebrei.jpg` — [Square of the Jewish Martyrs, Rhodes](https://commons.wikimedia.org/wiki/File:%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D1%8C_%D0%BF%D1%8C%D0%B5%D1%82_%D0%B8%D0%B7_%D1%84%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%B0._Square_of_the_Jewish_Martyrs._Old_town._Rhodos._Greece._%D0%98%D1%8E%D0%BD%D1%8C_2014_-_panoramio.jpg), CC BY-SA 3.0.
+- `kahal-shalom.jpg` — [Kahal Shalom Synagogue entrance](https://commons.wikimedia.org/wiki/File:Kahal_Shalom_Synagogue_entrance_2010.jpg), CC BY-SA 3.0.
+- `museo-archeologico.jpg` — [Archaeological Museum of Rhodes](https://commons.wikimedia.org/wiki/File:Archaeological_Museum_of_Rhodes_(exterior)_02.jpg), CC BY-SA 4.0.
+- `palazzo-finestra.jpg` — [Palace of the Grand Masters — window](https://commons.wikimedia.org/wiki/File:Palace_of_the_Grand_Masters_of_Rhodes_-_Window.jpg), CC BY-SA 4.0.
+- `via-cavalieri.jpg` — [Street of the Knights](https://commons.wikimedia.org/wiki/File:Street_of_Knights_(Rhodes)_01.jpg), CC BY-SA 4.0.
+- `porta-amboise.jpg` — [d’Amboise Gate](https://commons.wikimedia.org/wiki/File:D%27Amboise_Gate_1976_-_panoramio.jpg), CC BY 3.0.
+- `moschea-solimano.jpg` — [Suleiman Mosque, Rhodes](https://commons.wikimedia.org/wiki/File:Suleiman_Mosque_(Rhodes)_02.jpg), CC BY-SA 4.0.
+- `roloi.jpg` — [Roloi Clock Tower](https://commons.wikimedia.org/wiki/File:Roloi_ClockTower01.jpg), CC BY-SA 2.5.
+- `mandraki-forte.jpg` — [Saint Nicholas Fort, Rhodes harbour](https://commons.wikimedia.org/wiki/File:Saint_Nicolas_Fort_Rhodes_Harbour_night.jpg), CC0.
+- `lindos-pontile.jpg` — [Pier at Lindos](https://commons.wikimedia.org/wiki/File:Pier_at_Lindos._Rhodes,_Greece.jpg), CC BY-SA 3.0.
+- `stadio-rodi.jpg` — [Ancient Stadium, Acropolis of Rhodes](https://commons.wikimedia.org/wiki/File:Acropolis_of_Rhodes,_Stadium.jpg), CC BY-SA 4.0.
+- `gennadi.jpg` — [Gennadi beach](https://commons.wikimedia.org/wiki/File:%CE%A0%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B1_%CE%93%CE%B5%CE%BD%CE%BD%CE%B1%CE%B4%CE%AF%CE%BF%CF%85.jpg), Wikimedia Commons.
+- `symi-porto.jpg` — [Fishing boats in Ano Symi harbour](https://commons.wikimedia.org/wiki/File:Fishing_boats._Ano_Symi_harbor,_Greece.jpg), CC BY-SA 3.0.
+- `via-socrate.jpg` — [Socrates Street, Rhodes](https://commons.wikimedia.org/wiki/File:Socrates_Street_(Rhodes)_(9671427330).jpg), CC BY 2.0.
