@@ -36,6 +36,7 @@ Le fotografie sono state scaricate in agosto 2026 da Wikimedia Commons per esser
 - `mandraki-forte.jpg` — [Saint Nicholas Fort, Rhodes harbour](https://commons.wikimedia.org/wiki/File:Saint_Nicolas_Fort_Rhodes_Harbour_night.jpg), CC0.
 - `lindos-pontile.jpg` — [Pier at Lindos](https://commons.wikimedia.org/wiki/File:Pier_at_Lindos._Rhodes,_Greece.jpg), CC BY-SA 3.0.
 - `stadio-rodi.jpg` — [Ancient Stadium, Acropolis of Rhodes](https://commons.wikimedia.org/wiki/File:Acropolis_of_Rhodes,_Stadium.jpg), CC BY-SA 4.0.
+- `odeon-rodi.jpg` — [Ancient Odeon, Acropolis of Rhodes](https://commons.wikimedia.org/wiki/File:2023-09-18_Glyptofreunde_Rhodos_Ancient_Odeon_14.jpg), Burkhard Mücke, CC BY-SA 4.0.
 - `gennadi.jpg` — [Gennadi beach](https://commons.wikimedia.org/wiki/File:%CE%A0%CE%B1%CF%81%CE%B1%CE%BB%CE%AF%CE%B1_%CE%93%CE%B5%CE%BD%CE%BD%CE%B1%CE%B4%CE%AF%CE%BF%CF%85.jpg), Wikimedia Commons.
 - `symi-porto.jpg` — [Fishing boats in Ano Symi harbour](https://commons.wikimedia.org/wiki/File:Fishing_boats._Ano_Symi_harbor,_Greece.jpg), CC BY-SA 3.0.
 - `via-socrate.jpg` — [Socrates Street, Rhodes](https://commons.wikimedia.org/wiki/File:Socrates_Street_(Rhodes)_(9671427330).jpg), CC BY 2.0.
