@@ -4,6 +4,10 @@ Le fotografie sono state scaricate in agosto 2026 da Wikimedia Commons per esser
 
 Le immagini che terminano in `-user.png` sono state fornite dalla viaggiatrice durante la conversazione e inserite su sua richiesta.
 
+- `afandou-central-square.jpg` — [Central Square of Afantou Village](https://voyin.com/places/greece/afantou/central-square-of-afantou-village/5cbf55eb-3039-4c66-979f-8e193690a8c9), Voyin Places; inserita nella guida su richiesta della viaggiatrice.
+- `afandou-town-hall.jpg` — [Afandou Main Square Town Hall](https://www.greece.com/photos/destinations/Dodecanese/Rhodes/Village/Faliraki/Rhodes_Island%2C_Afandou%2C_Main_Square%2C_.01/108398224), Greece.com / foto di Emel Yamanturk; inserita nella guida su richiesta della viaggiatrice.
+- `sky-line-apartments.jpg` — Sky-Line Apartments, Afandou; fotografia della struttura dal sito dell’alloggio, [Sky-Line Apartments](https://skylineapartments.rhodesislandhotels.com/).
+
 - `palazzo.jpg` — Palazzo del Gran Maestro, Wikimedia Commons.
 - `lindos.jpg` — Lindos, Wikimedia Commons.
 - `kallithea.jpg` — [Kallithea Springs, Rhodes](https://commons.wikimedia.org/wiki/File:Kallithea_Springs,_Rhodes-5030790938.jpg).
