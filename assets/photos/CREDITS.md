@@ -9,6 +9,10 @@ Le fotografie sono state scaricate in agosto 2026 da Wikimedia Commons per esser
 - `butterflies.jpg` — [Rhodes, Butterfly Valley](https://commons.wikimedia.org/wiki/File:1._Rhodes,_Butterfly_Valley.jpg).
 - `symi.jpg` — [Ano Symi, Greece](https://commons.wikimedia.org/wiki/File:Ano_Symi._Greece.jpg).
 - `afandou.jpg` — [Aphandos Bay, Rhodes](https://commons.wikimedia.org/wiki/File:Aphandos_Bay_between_Cape_Ladhiko_and_Cape_Vahyah_Rhodes_30_August_2023.jpg).
+- `afandou-gasse.jpg` — [Afandou Gasse](https://commons.wikimedia.org/wiki/File:Afandou_Gasse.jpg), Hombre, CC BY-SA 3.0.
+- `afandou-chiesa.jpg` — [Afandou Kirche](https://commons.wikimedia.org/wiki/File:Afandou_Kirche.jpg), Hombre, CC BY-SA 3.0.
+- `afandou-spiaggia.jpg` — [Afandou Beach](https://commons.wikimedia.org/wiki/File:Afandou_Beach.jpg), Hombre, CC BY-SA 3.0.
+- `afandou-tramonto.jpg` — [Afandou sunset](https://commons.wikimedia.org/wiki/File:Afandou_sunset.JPG), Lodigiani Gianluca, CC BY-SA 3.0.
 - `kamiros.jpg` — [Kameiros – Exedra](https://commons.wikimedia.org/wiki/File:Kameiros_-_Exedra.jpg).
 - `prasonisi.jpg` — [Peninsula of Prasonisi and Prasonisi Kite Beach](https://commons.wikimedia.org/wiki/File:Peninsula_of_Prasonisi_and_Prasonisi_Kite_Beach._Rhodes,_Greece.jpg).
 - `acropoli-rodi-jebulon.jpg` — [Temple Apollon Rhodes](https://commons.wikimedia.org/wiki/File:Temple_Apollon_Rhodes.jpg), Jebulon, CC0 1.0.
