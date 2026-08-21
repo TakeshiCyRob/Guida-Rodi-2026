@@ -2,6 +2,8 @@
 
 Le fotografie sono state scaricate in agosto 2026 da Wikimedia Commons per essere incluse localmente nella guida e funzionare anche senza connessione. Prima di qualsiasi redistribuzione separata, verificare licenza e attribuzione nella pagina del file.
 
+Le immagini che terminano in `-user.png` sono state fornite dalla viaggiatrice durante la conversazione e inserite su sua richiesta.
+
 - `palazzo.jpg` — Palazzo del Gran Maestro, Wikimedia Commons.
 - `lindos.jpg` — Lindos, Wikimedia Commons.
 - `kallithea.jpg` — [Kallithea Springs, Rhodes](https://commons.wikimedia.org/wiki/File:Kallithea_Springs,_Rhodes-5030790938.jpg).
@@ -10,6 +12,7 @@ Le fotografie sono state scaricate in agosto 2026 da Wikimedia Commons per esser
 - `symi.jpg` — [Ano Symi, Greece](https://commons.wikimedia.org/wiki/File:Ano_Symi._Greece.jpg).
 - `afandou.jpg` — [Aphandos Bay, Rhodes](https://commons.wikimedia.org/wiki/File:Aphandos_Bay_between_Cape_Ladhiko_and_Cape_Vahyah_Rhodes_30_August_2023.jpg).
 - `afandou-gasse.jpg` — [Afandou Gasse](https://commons.wikimedia.org/wiki/File:Afandou_Gasse.jpg), Hombre, CC BY-SA 3.0.
+- `afandou-baia.jpg` — [Afandou Bay](https://commons.wikimedia.org/wiki/File:Afandou_Bay.jpg), Freakedenough, CC BY-SA 3.0.
 - `afandou-chiesa.jpg` — [Afandou Kirche](https://commons.wikimedia.org/wiki/File:Afandou_Kirche.jpg), Hombre, CC BY-SA 3.0.
 - `afandou-spiaggia.jpg` — [Afandou Beach](https://commons.wikimedia.org/wiki/File:Afandou_Beach.jpg), Hombre, CC BY-SA 3.0.
 - `afandou-tramonto.jpg` — [Afandou sunset](https://commons.wikimedia.org/wiki/File:Afandou_sunset.JPG), Lodigiani Gianluca, CC BY-SA 3.0.
